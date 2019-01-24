@@ -9,5 +9,7 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
-/config
 /.idea
+.phpstorm.meta.php
+_ide_helper.php
+/storage/debugbar
